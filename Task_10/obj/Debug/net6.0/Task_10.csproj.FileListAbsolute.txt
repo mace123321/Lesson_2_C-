@@ -1,0 +1,15 @@
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\bin\Debug\net6.0\Task_10.exe
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\bin\Debug\net6.0\Task_10.deps.json
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\bin\Debug\net6.0\Task_10.dll
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\bin\Debug\net6.0\Task_10.pdb
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.dll
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\refint\Task_10.dll
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.pdb
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
+C:\Users\alarm\OneDrive\Рабочий стол\Lesson_2_C#\Task_10\obj\Debug\net6.0\ref\Task_10.dll
